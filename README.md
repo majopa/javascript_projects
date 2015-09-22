@@ -1,5 +1,5 @@
-# python_projects
+# javascript_projects
 
-https://github.com/majopa/python_projects
+https://github.com/majopa/javascript_projects
 
-Various programs and projects I have created while learning python.
+Various programs and projects I have created while learning JavaScript.
